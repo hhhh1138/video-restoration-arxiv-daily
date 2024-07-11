@@ -37,10 +37,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/hhhh1138/video-restoration-arxiv-daily/blob/main/analysis_by_ai.md) 
-
-[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -170,11 +166,11 @@ Function added:
 * Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. 
 
 [contributors-shield]: https://img.shields.io/github/contributors/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/liutaocode/talking-face-arxiv-daily/graphs/contributors
+[contributors-url]: https://github.com/hhhh1138/video-restoration-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/liutaocode/talking-face-arxiv-daily/network/members
+[forks-url]: https://github.com/hhhh1138/video-restoration-arxiv-daily/network/members
 [stars-shield]: https://img.shields.io/github/stars/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/liutaocode/talking-face-arxiv-daily/stargazers
+[stars-url]: https://github.com/hhhh1138/video-restoration-arxiv-daily/stargazers
 [issues-shield]: https://img.shields.io/github/issues/liutaocode/talking-face-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/liutaocode/talking-face-arxiv-daily/issues
+[issues-url]: https://github.com/hhhh1138/video-restoration-arxiv-daily/issues
 
