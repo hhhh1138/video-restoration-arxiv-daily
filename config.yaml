@@ -8,8 +8,8 @@ show_badge: True
 max_results: 10
 
 publish_readme: True
-publish_gitpage: True
-publish_wechat: True
+publish_gitpage: False
+publish_wechat: False
 
 # file paths
 black_list_path: 'blacklists.txt'
