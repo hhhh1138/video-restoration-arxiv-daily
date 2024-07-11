@@ -184,11 +184,11 @@ def update_paper_links(filename):
 
     with open(filename,"r") as f:
         content = f.read()
-        # if not content:
-        #     m = {}
-        # else:
-        #     m = json.loads(content)
-        m = {}
+        if not content:
+            m = {}
+        else:
+            m = json.loads(content)
+        # m = {}
             
         json_data = m.copy() 
 
@@ -229,11 +229,11 @@ def update_json_file(filename,data_dict):
     '''
     with open(filename,"r") as f:
         content = f.read()
-        # if not content:
-        #     m = {}
-        # else:
-        #     m = json.loads(content)
-        m = {}
+        if not content:
+            m = {}
+        else:
+            m = json.loads(content)
+        # m = {}
             
     json_data = m.copy() 
     
