@@ -308,7 +308,7 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers (With GPT Analysis)\n")
+        f.write("# Video-Restoration Research Papers (With GPT Analysis)\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
@@ -317,7 +317,7 @@ def json_to_md(recent_trend_path,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
+        f.write("Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
@@ -330,7 +330,7 @@ def json_to_md(recent_trend_path,
         f.write("  </ol>\n")
         f.write("</details>\n\n")
 
-        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
+        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/hhhh1138/video-restoration-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
         f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
         
         #Add: table of contents
