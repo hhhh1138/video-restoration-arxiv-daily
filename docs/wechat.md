@@ -3,9 +3,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Talking-Face Research Papers (With GPT Analysis)
+# Video-Restoration Research Papers (With GPT Analysis)
 > Updated on 2024.07.11
-Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
+Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`
 
 > If you have any other keywords, please feel free to let us know :) 
 
@@ -37,7 +37,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   </ol>
 </details>
 
-[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) 
+[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/hhhh1138/video-restoration-arxiv-daily/blob/main/analysis_by_ai.md) 
 
 [Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) 
 
