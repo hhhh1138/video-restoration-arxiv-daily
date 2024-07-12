@@ -5,7 +5,7 @@
 
 # Video-Restoration Research Papers (With GPT Analysis)
 ### Automatically Updated on 2024.07.12
-Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`
+Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`
 
 > If you have any other keywords, please feel free to let us know :) 
 
