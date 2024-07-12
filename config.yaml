@@ -26,6 +26,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Video Restoration": 
-        filters: ["Video Enhancement", "Video Restoration", "Video Super Resolution",  "Face Restoration", "Video Deblurring"， “Video Denoising”]
+        filters: ["Video Enhancement", "Video Restoration", "Video Super Resolution",  "Face Restoration", "Video Deblurring", “Video Denoising”]
     #"Image Animation":
         #filters: ["Image Animator", "Image Animation"]
