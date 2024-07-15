@@ -48,6 +48,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|null|
+|**2024-07-12**|**A Spatio-temporal Aligned SUNet Model for Low-light Video Enhancement**|Ruirui Lin et.al.|[2403.02408](http://arxiv.org/abs/2403.02408)|null|
+|**2024-07-12**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853](http://arxiv.org/abs/2312.00853)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
@@ -81,7 +84,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-04-12**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2024-04-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
 |**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036](http://arxiv.org/abs/2404.06036)|null|
-|**2024-04-09**|**A Spatio-temporal Aligned SUNet Model for Low-light Video Enhancement**|Ruirui Lin et.al.|[2403.02408](http://arxiv.org/abs/2403.02408)|null|
 |**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745](http://arxiv.org/abs/2404.04745)|**[link](https://github.com/house-leo/cfdvsr)**|
 |**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283](http://arxiv.org/abs/2404.04283)|null|
 |**2024-04-03**|**Effective Adapter for Face Recognition in the Wild**|Yunhao Liu et.al.|[2312.01734](http://arxiv.org/abs/2312.01734)|null|
@@ -123,7 +125,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-12-10**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Marwah Sulaiman et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
 |**2023-12-07**|**ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization of Neural Video Representations**|Haoming Cai et.al.|[2312.04679](http://arxiv.org/abs/2312.04679)|null|
 |**2023-12-04**|**Peer attention enhances student learning**|Songlin Xu et.al.|[2312.02358](http://arxiv.org/abs/2312.02358)|**[link](https://github.com/songlinxu/peeredu)**|
-|**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853](http://arxiv.org/abs/2312.00853)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2023-12-01**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-27**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294](http://arxiv.org/abs/2310.17294)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
