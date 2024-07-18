@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.07.17
+### Automatically Updated on 2024.07.18
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285](http://arxiv.org/abs/2407.10285)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
 |**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|null|
@@ -128,7 +129,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-12-07**|**ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization of Neural Video Representations**|Haoming Cai et.al.|[2312.04679](http://arxiv.org/abs/2312.04679)|null|
 |**2023-12-04**|**Peer attention enhances student learning**|Songlin Xu et.al.|[2312.02358](http://arxiv.org/abs/2312.02358)|**[link](https://github.com/songlinxu/peeredu)**|
 |**2023-12-01**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
-|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-27**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294](http://arxiv.org/abs/2310.17294)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445](http://arxiv.org/abs/2311.15445)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
@@ -153,7 +153,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 Notes: 
 
