@@ -5,7 +5,7 @@
 
 # Video-Restoration Research Papers (With GPT Analysis)
 ### Automatically Updated on 2024.07.24
-Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`
+Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
 
@@ -106,6 +106,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-03-13**|**PFStorer: Personalized Face Restoration and Super-Resolution**|Tuomas Varanka et.al.|[2403.08436](http://arxiv.org/abs/2403.08436)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-11**|**AS-FIBA: Adaptive Selective Frequency-Injection for Backdoor Attack on Deep Face Restoration**|Zhenbo Song et.al.|[2403.06430](http://arxiv.org/abs/2403.06430)|null|
+|**2024-03-10**|**BlazeBVD: Make Scale-Time Equalization Great Again for Blind Video Deflickering**|Xinmin Qiu et.al.|[2403.06243](http://arxiv.org/abs/2403.06243)|null|
 |**2024-03-10**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|null|
 |**2024-03-08**|**Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera**|Chengxu Liu et.al.|[2403.05660](http://arxiv.org/abs/2403.05660)|**[link](https://github.com/chengxuliu/ddrnet)**|
 |**2024-02-29**|**BFRFormer: Transformer-based generator for Real-World Blind Face Restoration**|Guojing Ge et.al.|[2402.18811](http://arxiv.org/abs/2402.18811)|null|
@@ -134,6 +135,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-11-27**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294](http://arxiv.org/abs/2310.17294)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445](http://arxiv.org/abs/2311.15445)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
+|**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265](http://arxiv.org/abs/2311.09265)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685](http://arxiv.org/abs/2311.04685)|null|
 |**2023-11-07**|**Restoration of Analog Videos Using Swin-UNet**|Lorenzo Agnolucci et.al.|[2311.04261](http://arxiv.org/abs/2311.04261)|**[link](https://github.com/miccunifi/analog-video-restoration)**|
 |**2023-11-03**|**Reference-based Restoration of Digitized Analog Videotapes**|Lorenzo Agnolucci et.al.|[2310.14926](http://arxiv.org/abs/2310.14926)|**[link](https://github.com/miccunifi/tape)**|
