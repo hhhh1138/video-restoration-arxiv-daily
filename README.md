@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.07.28
+### Automatically Updated on 2024.07.29
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -49,14 +49,14 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986](http://arxiv.org/abs/2407.16986)|null|
-|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|null|
+|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|**[link](https://github.com/fcongrui/3dattgan)**|
 |**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987](http://arxiv.org/abs/2407.13987)|**[link](https://github.com/yuehan717/realviformer)**|
 |**2024-07-19**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
 |**2024-07-17**|**Sphere Window: Challenges and Opportunities of 360° Video in Collaborative Design Workshops**|Wo Meijer et.al.|[2407.12407](http://arxiv.org/abs/2407.12407)|null|
 |**2024-07-16**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285](http://arxiv.org/abs/2407.10285)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
-|**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|null|
+|**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|**[link](https://github.com/jin-ting-he/dadeblur)**|
 |**2024-07-12**|**A Spatio-temporal Aligned SUNet Model for Low-light Video Enhancement**|Ruirui Lin et.al.|[2403.02408](http://arxiv.org/abs/2403.02408)|null|
 |**2024-07-12**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853](http://arxiv.org/abs/2312.00853)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
@@ -159,7 +159,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 Notes: 
 
