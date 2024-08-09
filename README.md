@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Physical prior guided cooperative learning framework for joint turbulence degradation estimation and infrared video restoration**|Ziran Zhang et.al.|[2408.04227](http://arxiv.org/abs/2408.04227)|null|
 |**2024-08-08**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
 |**2024-07-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
