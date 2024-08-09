@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.08.08
+### Automatically Updated on 2024.08.09
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -48,7 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-07**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
+|**2024-08-08**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
 |**2024-07-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-28**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
@@ -162,7 +162,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240809>back to top</a>)</p>
 
 Notes: 
 
