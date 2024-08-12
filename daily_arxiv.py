@@ -319,7 +319,7 @@ def json_to_md(recent_trend_path,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`\n\n")
+        f.write("Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
         f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
         f.write(" \n\n")
