@@ -48,6 +48,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244](http://arxiv.org/abs/2408.14244)|null|
+|**2024-08-24**|**Frontal Slice Approaches for Tensor Linear Systems**|Hengrui Luo et.al.|[2408.13547](http://arxiv.org/abs/2408.13547)|null|
+|**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459](http://arxiv.org/abs/2408.13459)|null|
 |**2024-08-22**|**Adapting MIMO video restoration networks to low latency constraints**|Valéry Dewil et.al.|[2408.12439](http://arxiv.org/abs/2408.12439)|null|
 |**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
 |**2024-08-20**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248](http://arxiv.org/abs/2408.09248)|null|
