@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.09.04
+### Automatically Updated on 2024.09.05
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
 |**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
 |**2024-08-28**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930](http://arxiv.org/abs/2408.14930)|**[link](https://github.com/intelpro/cmta)**|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
@@ -95,7 +96,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
 |**2024-05-22**|**Uncovering Hidden Connections: Iterative Search and Reasoning for Video-grounded Dialog**|Haoyu Zhang et.al.|[2310.07259](http://arxiv.org/abs/2310.07259)|**[link](https://github.com/hyu-zhang/itr)**|
 |**2024-05-15**|**Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences**|Long Chen et.al.|[2405.09716](http://arxiv.org/abs/2405.09716)|**[link](https://github.com/longchencv/ihc-metric)**|
-|**2024-05-15**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
 |**2024-05-14**|**Light-VQA+: A Video Quality Assessment Model for Exposure Correction with Vision-Language Guidance**|Xunchu Zhou et.al.|[2405.03333](http://arxiv.org/abs/2405.03333)|**[link](https://github.com/SaMMyCHoo/Light-VQA-plus)**|
 |**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
 |**2024-05-01**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388](http://arxiv.org/abs/2404.12388)|null|
@@ -174,7 +174,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
 
 Notes: 
 
