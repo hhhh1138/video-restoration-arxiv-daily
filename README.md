@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.09.15
+### Automatically Updated on 2024.09.16
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-09-12**|**3D Priors-Guided Diffusion for Blind Face Restoration**|Xiaobin Lu et.al.|[2409.00991](http://arxiv.org/abs/2409.00991)|**[link](https://github.com/838143396/3Diffusion)**|
 |**2024-09-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
 |**2024-09-06**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
@@ -124,7 +125,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-03-18**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
 |**2024-03-15**|**DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration**|Nan Gao et.al.|[2403.10098](http://arxiv.org/abs/2403.10098)|null|
 |**2024-03-13**|**PFStorer: Personalized Face Restoration and Super-Resolution**|Tuomas Varanka et.al.|[2403.08436](http://arxiv.org/abs/2403.08436)|null|
-|**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-11**|**AS-FIBA: Adaptive Selective Frequency-Injection for Backdoor Attack on Deep Face Restoration**|Zhenbo Song et.al.|[2403.06430](http://arxiv.org/abs/2403.06430)|null|
 |**2024-03-10**|**BlazeBVD: Make Scale-Time Equalization Great Again for Blind Video Deflickering**|Xinmin Qiu et.al.|[2403.06243](http://arxiv.org/abs/2403.06243)|null|
 |**2024-03-10**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|**[link](https://github.com/kravrolens/vecnet)**|
@@ -177,7 +177,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
 
 Notes: 
 
