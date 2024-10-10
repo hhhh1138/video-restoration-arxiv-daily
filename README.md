@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.10.09
+### Automatically Updated on 2024.10.10
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -68,7 +68,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
 |**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244](http://arxiv.org/abs/2408.14244)|null|
 |**2024-08-24**|**Frontal Slice Approaches for Tensor Linear Systems**|Hengrui Luo et.al.|[2408.13547](http://arxiv.org/abs/2408.13547)|null|
-|**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459](http://arxiv.org/abs/2408.13459)|null|
+|**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459](http://arxiv.org/abs/2408.13459)|**[link](https://github.com/chen-rao/vd-diff)**|
 |**2024-08-22**|**Adapting MIMO video restoration networks to low latency constraints**|Valéry Dewil et.al.|[2408.12439](http://arxiv.org/abs/2408.12439)|null|
 |**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
 |**2024-08-20**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248](http://arxiv.org/abs/2408.09248)|null|
@@ -184,7 +184,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 Notes: 
 
