@@ -48,6 +48,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
+|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|null|
+|**2024-10-15**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|**[link](https://github.com/Ascend-Research/Turtle)**|
 |**2024-10-13**|**AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior**|Guoqiang Liang et.al.|[2410.09864](http://arxiv.org/abs/2410.09864)|**[link](https://github.com/ethanliang99/authface)**|
 |**2024-10-12**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799](http://arxiv.org/abs/2410.05799)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534](http://arxiv.org/abs/2410.08534)|null|
@@ -55,7 +58,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-10-06**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225](http://arxiv.org/abs/2410.04225)|null|
 |**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
-|**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|**[link](https://github.com/Ascend-Research/Turtle)**|
 |**2024-10-04**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|**[link](https://github.com/jimmycv07/DiffIR2VR-Zero)**|
 |**2024-10-03**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
