@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
 |**2024-11-19**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
 |**2024-11-15**|**DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration**|Xinmin Qiu et.al.|[2411.10508](http://arxiv.org/abs/2411.10508)|null|
 |**2024-11-15**|**Quanta Video Restoration**|Prateek Chennuri et.al.|[2410.14994](http://arxiv.org/abs/2410.14994)|**[link](https://github.com/chennuriprateek/Quanta_Video_Restoration-QUIVER-)**|
