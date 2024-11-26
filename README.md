@@ -48,9 +48,11 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|null|
+|**2024-11-24**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
+|**2024-11-23**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-11-21**|**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**|Jiacheng Ying et.al.|[2411.14125](http://arxiv.org/abs/2411.14125)|**[link](https://github.com/yingjiacheng/restorerid)**|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
-|**2024-11-19**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
 |**2024-11-15**|**DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration**|Xinmin Qiu et.al.|[2411.10508](http://arxiv.org/abs/2411.10508)|null|
 |**2024-11-15**|**Quanta Video Restoration**|Prateek Chennuri et.al.|[2410.14994](http://arxiv.org/abs/2410.14994)|**[link](https://github.com/chennuriprateek/Quanta_Video_Restoration-QUIVER-)**|
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738](http://arxiv.org/abs/2411.06738)|null|
@@ -70,7 +72,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-09-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
 |**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256](http://arxiv.org/abs/2409.17256)|null|
 |**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585](http://arxiv.org/abs/2409.08585)|null|
-|**2024-09-13**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-09-12**|**3D Priors-Guided Diffusion for Blind Face Restoration**|Xiaobin Lu et.al.|[2409.00991](http://arxiv.org/abs/2409.00991)|**[link](https://github.com/838143396/3Diffusion)**|
 |**2024-09-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
 |**2024-09-02**|**DAVIDE: Depth-Aware Video Deblurring**|German F. Torres et.al.|[2409.01274](http://arxiv.org/abs/2409.01274)|null|
