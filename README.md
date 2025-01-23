@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
 |**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[2501.12246](http://arxiv.org/abs/2501.12246)|null|
 |**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
