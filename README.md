@@ -48,6 +48,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration**|Senmao Li et.al.|[2502.02215](http://arxiv.org/abs/2502.02215)|null|
+|**2025-02-04**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320](http://arxiv.org/abs/2501.01320)|null|
+|**2025-02-03**|**Low Resource Video Super-resolution using Memory and Residual Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816](http://arxiv.org/abs/2502.01816)|null|
 |**2025-02-01**|**Zero-Shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-27**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
@@ -60,7 +63,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-01-10**|**FaceMe: Robust Blind Face Restoration with Personal Identification**|Siyu Liu et.al.|[2501.05177](http://arxiv.org/abs/2501.05177)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
 |**2025-01-04**|**TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration**|Yizhou Li et.al.|[2501.02269](http://arxiv.org/abs/2501.02269)|null|
-|**2025-01-04**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320](http://arxiv.org/abs/2501.01320)|null|
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773](http://arxiv.org/abs/2501.01773)|null|
 |**2025-01-03**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|**[link](https://github.com/wangzhiyaoo/svfr)**|
 |**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042](http://arxiv.org/abs/2412.21042)|**[link](https://github.com/longlongaaago/vspbfr)**|
