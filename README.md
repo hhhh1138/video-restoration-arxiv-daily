@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**DaBiT: Depth and Blur informed Transformer for Video Focal Deblurring**|Crispian Morris et.al.|[2407.01230](http://arxiv.org/abs/2407.01230)|null|
 |**2025-02-13**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538](http://arxiv.org/abs/2502.07538)|null|
 |**2025-02-12**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|
 |**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431](http://arxiv.org/abs/2502.06431)|null|
@@ -139,7 +140,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
-|**2024-07-10**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230](http://arxiv.org/abs/2407.01230)|null|
 |**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359](http://arxiv.org/abs/2406.16359)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457](http://arxiv.org/abs/2406.13457)|**[link](https://github.com/dachunkai/evtexture)**|
