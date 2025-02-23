@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.02.22
+### Automatically Updated on 2025.02.23
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -150,7 +150,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-05-25**|**BVI-Lowlight: Fully Registered Benchmark Dataset for Low-Light Video Enhancement**|Nantheera Anantrasirichai et.al.|[2402.01970](http://arxiv.org/abs/2402.01970)|**[link](https://github.com/lrr-rachel/PCDUNet)**|
 |**2024-05-24**|**Low-Light Video Enhancement via Spatial-Temporal Consistent Illumination and Reflection Decomposition**|Xiaogang Xu et.al.|[2405.15660](http://arxiv.org/abs/2405.15660)|null|
 |**2024-05-24**|**Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features**|Lichuan Ji et.al.|[2405.15343](http://arxiv.org/abs/2405.15343)|null|
-|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
+|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|**[link](https://github.com/yunfanlu/hr-inr)**|
 |**2024-05-22**|**Uncovering Hidden Connections: Iterative Search and Reasoning for Video-grounded Dialog**|Haoyu Zhang et.al.|[2310.07259](http://arxiv.org/abs/2310.07259)|**[link](https://github.com/hyu-zhang/itr)**|
 |**2024-05-15**|**Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences**|Long Chen et.al.|[2405.09716](http://arxiv.org/abs/2405.09716)|**[link](https://github.com/longchencv/ihc-metric)**|
 |**2024-05-14**|**Light-VQA+: A Video Quality Assessment Model for Exposure Correction with Vision-Language Guidance**|Xunchu Zhou et.al.|[2405.03333](http://arxiv.org/abs/2405.03333)|**[link](https://github.com/SaMMyCHoo/Light-VQA-plus)**|
@@ -230,7 +230,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 Notes: 
 
