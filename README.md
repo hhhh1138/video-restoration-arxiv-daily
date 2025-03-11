@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.03.10
+### Automatically Updated on 2025.03.11
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -48,6 +48,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-08**|**DiffVSR: Revealing an Effective Recipe for Taming Robust Video Super-Resolution Against Complex Degradations**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-02-25**|**Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision**|Erick da Silva Farias et.al.|[2502.18555](http://arxiv.org/abs/2502.18555)|null|
@@ -64,7 +65,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-01-27**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
 |**2025-01-26**|**InfoBFR: Real-World Blind Face Restoration via Information Bottleneck**|Nan Gao et.al.|[2501.15443](http://arxiv.org/abs/2501.15443)|null|
 |**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[2501.12246](http://arxiv.org/abs/2501.12246)|**[link](https://github.com/yangt1013/speinet)**|
-|**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
 |**2025-01-17**|**Discrete Prior-based Temporal-coherent Content Prediction for Blind Face Video Restoration**|Lianxin Xie et.al.|[2501.09960](http://arxiv.org/abs/2501.09960)|**[link](https://github.com/lxxie298/dp-tempcoh)**|
 |**2025-01-10**|**LLVD: LSTM-based Explicit Motion Modeling in Latent Space for Blind Video Denoising**|Loay Rashid et.al.|[2501.05744](http://arxiv.org/abs/2501.05744)|null|
@@ -115,7 +115,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-09-02**|**DAVIDE: Depth-Aware Video Deblurring**|German F. Torres et.al.|[2409.01274](http://arxiv.org/abs/2409.01274)|null|
 |**2024-09-01**|**VDPI: Video Deblurring with Pseudo-inverse Modeling**|Zhihao Huang et.al.|[2409.00777](http://arxiv.org/abs/2409.00777)|null|
 |**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
-|**2024-08-28**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930](http://arxiv.org/abs/2408.14930)|**[link](https://github.com/intelpro/cmta)**|
+|**2024-08-28**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930](http://arxiv.org/abs/2408.14930)|null|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
 |**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244](http://arxiv.org/abs/2408.14244)|**[link](https://github.com/house-leo/ctun)**|
 |**2024-08-24**|**Frontal Slice Approaches for Tensor Linear Systems**|Hengrui Luo et.al.|[2408.13547](http://arxiv.org/abs/2408.13547)|null|
@@ -233,7 +233,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 Notes: 
 
