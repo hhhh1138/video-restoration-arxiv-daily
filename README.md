@@ -44,7 +44,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
   </ol>
 </details>
 
-🔥🔥We have released our new blind face video restoration method [BFVR-STC](https://github.com/Dixin-Lab/BFVR-STC), which is accepted by CVPR'2025. 🔥🔥
+🔥We have released our new blind face video restoration method [BFVR-STC](https://github.com/Dixin-Lab/BFVR-STC), which is accepted by CVPR'2025. 🔥
 
 ## Video Restoration
 
