@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.03.13
+### Automatically Updated on 2025.03.14
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -43,8 +43,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
     <li><a href=#video-restoration>Video Restoration</a></li>
   </ol>
 </details>
-
-🔥We have released our new blind face video restoration method [BFVR-STC](https://github.com/Dixin-Lab/BFVR-STC), which is accepted by CVPR'2025. 🔥
 
 ## Video Restoration
 
@@ -238,7 +236,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 Notes: 
 
