@@ -348,6 +348,7 @@ def json_to_md(recent_trend_path,
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
+        f.write("🔥We have released our new blind face video restoration method [BFVR-STC](https://github.com/Dixin-Lab/BFVR-STC), which is accepted by CVPR'2025. 🔥")
         
         for keyword in data.keys():
             day_content = data[keyword]
