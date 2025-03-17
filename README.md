@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
+|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|null|
 |**2025-03-13**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-12**|**IQPFR: An Image Quality Prior for Blind Face Restoration and Beyond**|Peng Hu et.al.|[2503.09294](http://arxiv.org/abs/2503.09294)|null|
 |**2025-03-10**|**Blind Video Super-Resolution based on Implicit Kernels**|Qiang Zhu et.al.|[2503.07856](http://arxiv.org/abs/2503.07856)|null|
