@@ -50,7 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|null|
+|**2025-03-19**|**Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**|Hengkang Wang et.al.|[2503.14863](http://arxiv.org/abs/2503.14863)|null|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-17**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2025-03-16**|**Low-Resource Video Super-Resolution using Memory, Wavelets, and Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816](http://arxiv.org/abs/2502.01816)|null|
