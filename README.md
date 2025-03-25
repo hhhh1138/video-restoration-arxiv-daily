@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Quantile-Based Randomized Kaczmarz for Corrupted Tensor Linear Systems**|Alejandra Castillo et.al.|[2503.18190](http://arxiv.org/abs/2503.18190)|null|
 |**2025-03-22**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320](http://arxiv.org/abs/2501.01320)|null|
 |**2025-03-21**|**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration**|Senmao Li et.al.|[2502.02215](http://arxiv.org/abs/2502.02215)|null|
 |**2025-03-19**|**Temporal-Consistent Video Restoration with Pre-trained Diffusion Models**|Hengkang Wang et.al.|[2503.14863](http://arxiv.org/abs/2503.14863)|null|
