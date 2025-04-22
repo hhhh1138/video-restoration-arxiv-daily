@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
+|**2025-04-20**|**NTIRE 2025 Challenge on Real-World Face Restoration: Methods and Results**|Zheng Chen et.al.|[2504.14600](http://arxiv.org/abs/2504.14600)|**[link](https://github.com/zhengchen1999/ntire2025_realworld_face_restoration)**|
 |**2025-04-18**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042](http://arxiv.org/abs/2504.13042)|**[link](https://github.com/dachunkai/ev-deblurvsr)**|
 |**2025-04-17**|**Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2504.13035](http://arxiv.org/abs/2504.13035)|null|
 |**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
@@ -123,7 +125,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-10-13**|**AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior**|Guoqiang Liang et.al.|[2410.09864](http://arxiv.org/abs/2410.09864)|**[link](https://github.com/ethanliang99/authface)**|
 |**2024-10-10**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225](http://arxiv.org/abs/2410.04225)|null|
-|**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
 |**2024-10-03**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
 |**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256](http://arxiv.org/abs/2409.17256)|null|
