@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**|Biao Wu et.al.|[2504.15649](http://arxiv.org/abs/2504.15649)|null|
+|**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
 |**2025-04-21**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
 |**2025-04-20**|**NTIRE 2025 Challenge on Real-World Face Restoration: Methods and Results**|Zheng Chen et.al.|[2504.14600](http://arxiv.org/abs/2504.14600)|**[link](https://github.com/zhengchen1999/ntire2025_realworld_face_restoration)**|
 |**2025-04-18**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042](http://arxiv.org/abs/2504.13042)|**[link](https://github.com/dachunkai/ev-deblurvsr)**|
