@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/abs/2411.17163)|**[link](https://github.com/jkwang28/osdface)**|
 |**2025-04-22**|**RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution**|Biao Wu et.al.|[2504.15649](http://arxiv.org/abs/2504.15649)|null|
 |**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
 |**2025-04-21**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
@@ -109,7 +110,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-02**|**Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring**|Bo Ji et.al.|[2412.01559](http://arxiv.org/abs/2412.01559)|**[link](https://github.com/jibo27/ahfnet)**|
 |**2024-12-01**|**DIVD: Deblurring with Improved Video Diffusion Model**|Haoyang Long et.al.|[2412.00773](http://arxiv.org/abs/2412.00773)|null|
 |**2024-11-27**|**DiffMVR: Diffusion-based Automated Multi-Guidance Video Restoration**|Zheyan Zhang et.al.|[2411.18745](http://arxiv.org/abs/2411.18745)|null|
-|**2024-11-26**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/abs/2411.17163)|**[link](https://github.com/jkwang28/osdface)**|
 |**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|**[link](https://github.com/dixin-lab/bfvr-stc)**|
 |**2024-11-24**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
 |**2024-11-23**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
