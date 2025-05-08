@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616](http://arxiv.org/abs/2505.04616)|null|
 |**2025-05-05**|**NTIRE 2025 Challenge on UGC Video Enhancement: Methods and Results**|Nikolay Safonov et.al.|[2505.03007](http://arxiv.org/abs/2505.03007)|**[link](https://github.com/msu-video-group/ntire25_ugc_video_enhancement)**|
 |**2025-05-04**|**Small Clips, Big Gains: Learning Long-Range Refocused Temporal Information for Video Super-Resolution**|Xingyu Zhou et.al.|[2505.02159](http://arxiv.org/abs/2505.02159)|null|
 |**2025-05-03**|**Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline**|Minwoo Oh et.al.|[2504.21772](http://arxiv.org/abs/2504.21772)|null|
