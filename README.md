@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
+|**2025-05-20**|**Blind Restoration of High-Resolution Ultrasound Video**|Chu Chen et.al.|[2505.13915](http://arxiv.org/abs/2505.13915)|null|
 |**2025-05-19**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
 |**2025-05-18**|**PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement**|ZhanFeng Feng et.al.|[2505.12266](http://arxiv.org/abs/2505.12266)|**[link](https://github.com/xiaobigfeng/pmq-ve)**|
 |**2025-05-17**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
@@ -122,7 +124,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-12-01**|**DIVD: Deblurring with Improved Video Diffusion Model**|Haoyang Long et.al.|[2412.00773](http://arxiv.org/abs/2412.00773)|null|
 |**2024-11-27**|**DiffMVR: Diffusion-based Automated Multi-Guidance Video Restoration**|Zheyan Zhang et.al.|[2411.18745](http://arxiv.org/abs/2411.18745)|null|
 |**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|**[link](https://github.com/dixin-lab/bfvr-stc)**|
-|**2024-11-24**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
+|**2024-11-24**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|**[link](https://github.com/SamsungLabs/DT-BFR)**|
 |**2024-11-23**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-11-21**|**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**|Jiacheng Ying et.al.|[2411.14125](http://arxiv.org/abs/2411.14125)|**[link](https://github.com/yingjiacheng/restorerid)**|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
