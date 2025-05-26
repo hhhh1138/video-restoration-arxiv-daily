@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
+|**2025-05-23**|**DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning**|Bin Wu et.al.|[2505.17910](http://arxiv.org/abs/2505.17910)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
 |**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|null|
