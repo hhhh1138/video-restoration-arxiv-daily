@@ -50,6 +50,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
+|**2025-05-26**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502](http://arxiv.org/abs/2502.03502)|null|
+|**2025-05-25**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
+|**2025-05-24**|**HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model**|Jingkai Wang et.al.|[2505.18469](http://arxiv.org/abs/2505.18469)|null|
 |**2025-05-24**|**PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement**|ZhanFeng Feng et.al.|[2505.12266](http://arxiv.org/abs/2505.12266)|**[link](https://github.com/xiaobigfeng/pmq-ve)**|
 |**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
 |**2025-05-23**|**DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning**|Bin Wu et.al.|[2505.17910](http://arxiv.org/abs/2505.17910)|null|
@@ -59,7 +63,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
 |**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
 |**2025-05-20**|**Blind Restoration of High-Resolution Ultrasound Video**|Chu Chen et.al.|[2505.13915](http://arxiv.org/abs/2505.13915)|null|
-|**2025-05-19**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
 |**2025-05-17**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
 |**2025-05-14**|**GRNN:Recurrent Neural Network based on Ghost Features for Video Super-Resolution**|Yutong Guo et.al.|[2505.10577](http://arxiv.org/abs/2505.10577)|null|
 |**2025-05-08**|**Rethinking Video Super-Resolution: Towards Diffusion-Based Methods without Motion Alignment**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
@@ -104,7 +107,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-02-13**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538](http://arxiv.org/abs/2502.07538)|null|
 |**2025-02-12**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|
 |**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431](http://arxiv.org/abs/2502.06431)|null|
-|**2025-02-05**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502](http://arxiv.org/abs/2502.03502)|null|
 |**2025-02-01**|**Zero-Shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-27**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
