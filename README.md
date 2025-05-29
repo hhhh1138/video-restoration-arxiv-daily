@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Reference-Guided Identity Preserving Face Restoration**|Mo Zhou et.al.|[2505.21905](http://arxiv.org/abs/2505.21905)|null|
+|**2025-05-28**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
 |**2025-05-26**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502](http://arxiv.org/abs/2502.03502)|null|
 |**2025-05-25**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
@@ -61,7 +63,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-22**|**Joint Flow And Feature Refinement Using Attention For Video Restoration**|Ranjith Merugu et.al.|[2505.16434](http://arxiv.org/abs/2505.16434)|null|
 |**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|null|
 |**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
-|**2025-05-20**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
 |**2025-05-20**|**Blind Restoration of High-Resolution Ultrasound Video**|Chu Chen et.al.|[2505.13915](http://arxiv.org/abs/2505.13915)|null|
 |**2025-05-17**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
 |**2025-05-14**|**GRNN:Recurrent Neural Network based on Ghost Features for Video Super-Resolution**|Yutong Guo et.al.|[2505.10577](http://arxiv.org/abs/2505.10577)|null|
