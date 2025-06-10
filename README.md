@@ -50,6 +50,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**FANVID: A Benchmark for Face and License Plate Recognition in Low-Resolution Videos**|Kavitha Viswanathan et.al.|[2506.07304](http://arxiv.org/abs/2506.07304)|null|
+|**2025-06-07**|**A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution**|Qianqian Zhao et.al.|[2506.06710](http://arxiv.org/abs/2506.06710)|null|
 |**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
