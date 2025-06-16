@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.06.15
+### Automatically Updated on 2025.06.16
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -50,13 +50,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
 |**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|**[link](https://github.com/srinivas-512/pnp_nystra)**|
 |**2025-06-08**|**FANVID: A Benchmark for Face and License Plate Recognition in Low-Resolution Videos**|Kavitha Viswanathan et.al.|[2506.07304](http://arxiv.org/abs/2506.07304)|null|
 |**2025-06-07**|**A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution**|Qianqian Zhao et.al.|[2506.06710](http://arxiv.org/abs/2506.06710)|null|
 |**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
-|**2025-06-05**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
 |**2025-06-04**|**Video Deblurring with Deconvolution and Aggregation Networks**|Giyong Choi et.al.|[2506.04054](http://arxiv.org/abs/2506.04054)|null|
 |**2025-06-04**|**Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network**|Giyong Choi et.al.|[2506.03892](http://arxiv.org/abs/2506.03892)|null|
 |**2025-06-03**|**A Survey of Deep Learning Video Super-Resolution**|Arbind Agrahari Baniya et.al.|[2506.03216](http://arxiv.org/abs/2506.03216)|null|
@@ -290,7 +290,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 Notes: 
 
