@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
 |**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|
 |**2025-06-14**|**Restoring Gaussian Blurred Face Images for Deanonymization Attacks**|Haoyu Zhai et.al.|[2506.12344](http://arxiv.org/abs/2506.12344)|null|
 |**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|null|
