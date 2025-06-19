@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.06.18
+### Automatically Updated on 2025.06.19
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -50,10 +50,11 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|null|
 |**2025-06-17**|**Compressed Video Super-Resolution based on Hierarchical Encoding**|Yuxuan Jiang et.al.|[2506.14381](http://arxiv.org/abs/2506.14381)|null|
 |**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|
 |**2025-06-14**|**Restoring Gaussian Blurred Face Images for Deanonymization Attacks**|Haoyu Zhai et.al.|[2506.12344](http://arxiv.org/abs/2506.12344)|null|
-|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|null|
+|**2025-06-13**|**ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**|Babak Naderi et.al.|[2506.12269](http://arxiv.org/abs/2506.12269)|**[link](https://github.com/microsoft/vsr-challenge)**|
 |**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768](http://arxiv.org/abs/2506.11768)|null|
 |**2025-06-13**|**FCA2: Frame Compression-Aware Autoencoder for Modular and Fast Compressed Video Super-Resolution**|Zhaoyang Wang et.al.|[2506.11545](http://arxiv.org/abs/2506.11545)|null|
 |**2025-06-13**|**DualX-VSR: Dual Axial Spatial $\times$ Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation**|Shuo Cao et.al.|[2506.04830](http://arxiv.org/abs/2506.04830)|null|
@@ -65,6 +66,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-04**|**Video Deblurring with Deconvolution and Aggregation Networks**|Giyong Choi et.al.|[2506.04054](http://arxiv.org/abs/2506.04054)|null|
 |**2025-06-04**|**Joint Video Enhancement with Deblurring, Super-Resolution, and Frame Interpolation Network**|Giyong Choi et.al.|[2506.03892](http://arxiv.org/abs/2506.03892)|null|
+|**2025-06-03**|**Omnidirectional Video Super-Resolution using Deep Learning**|Arbind Agrahari Baniya et.al.|[2506.14803](http://arxiv.org/abs/2506.14803)|null|
 |**2025-06-03**|**A Survey of Deep Learning Video Super-Resolution**|Arbind Agrahari Baniya et.al.|[2506.03216](http://arxiv.org/abs/2506.03216)|null|
 |**2025-06-03**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
 |**2025-06-01**|**Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution**|Shijun Shi et.al.|[2506.01037](http://arxiv.org/abs/2506.01037)|null|
@@ -296,7 +298,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 Notes: 
 
