@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Video-Restoration Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.06.26
+### Automatically Updated on 2025.06.27
 Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -51,6 +51,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-25**|**WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration**|Chaojun Ni et.al.|[2506.20590](http://arxiv.org/abs/2506.20590)|null|
+|**2025-06-25**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|**[link](https://github.com/liyinibristol/Zero-TIG)**|
 |**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
 |**2025-06-20**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
 |**2025-06-19**|**Low-Resource Video Super-Resolution using Memory, Wavelets, and Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816](http://arxiv.org/abs/2502.01816)|**[link](https://github.com/kavi1388/RCDM)**|
@@ -121,7 +122,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
-|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|**[link](https://github.com/liyinibristol/Zero-TIG)**|
 |**2025-03-12**|**IQPFR: An Image Quality Prior for Blind Face Restoration and Beyond**|Peng Hu et.al.|[2503.09294](http://arxiv.org/abs/2503.09294)|null|
 |**2025-03-10**|**Blind Video Super-Resolution based on Implicit Kernels**|Qiang Zhu et.al.|[2503.07856](http://arxiv.org/abs/2503.07856)|null|
 |**2025-03-08**|**Removing Multiple Hybrid Adverse Weather in Video via a Unified Model**|Yecong Wan et.al.|[2503.06200](http://arxiv.org/abs/2503.06200)|null|
@@ -300,7 +300,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 Notes: 
 
