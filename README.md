@@ -50,6 +50,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|
+|**2025-06-29**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan Çetin et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
+|**2025-06-28**|**VSRM: A Robust Mamba-Based Framework for Video Super-Resolution**|Dinh Phu Tran et.al.|[2506.22762](http://arxiv.org/abs/2506.22762)|null|
 |**2025-06-27**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|
 |**2025-06-25**|**WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration**|Chaojun Ni et.al.|[2506.20590](http://arxiv.org/abs/2506.20590)|null|
 |**2025-06-25**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|**[link](https://github.com/liyinibristol/Zero-TIG)**|
@@ -82,7 +85,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-05-28**|**Hunyuan-Game: Industrial-grade Intelligent Game Creation Model**|Ruihuang Li et.al.|[2505.14135](http://arxiv.org/abs/2505.14135)|null|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
 |**2025-05-26**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502](http://arxiv.org/abs/2502.03502)|null|
-|**2025-05-25**|**Super-Resolution Generative Adversarial Networks based Video Enhancement**|Kağan ÇETİN et.al.|[2505.10589](http://arxiv.org/abs/2505.10589)|null|
 |**2025-05-24**|**HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model**|Jingkai Wang et.al.|[2505.18469](http://arxiv.org/abs/2505.18469)|**[link](https://github.com/jkwang28/honestface)**|
 |**2025-05-24**|**PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement**|ZhanFeng Feng et.al.|[2505.12266](http://arxiv.org/abs/2505.12266)|**[link](https://github.com/xiaobigfeng/pmq-ve)**|
 |**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
