@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Unsupervised Methods for Video Quality Improvement: A Survey of Restoration and Enhancement Techniques**|Alexandra Malyugina et.al.|[2507.08375](http://arxiv.org/abs/2507.08375)|null|
 |**2025-07-10**|**Degradation-Agnostic Statistical Facial Feature Transformation for Blind Face Restoration in Adverse Weather Conditions**|Chang-Hwan Son et.al.|[2507.07464](http://arxiv.org/abs/2507.07464)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-01**|**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**|Zhe Kong et.al.|[2507.01012](http://arxiv.org/abs/2507.01012)|null|
